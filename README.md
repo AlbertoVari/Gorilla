@@ -7,7 +7,9 @@ Gorilla project is an application of TSM: Temporal Shift Module https://github.c
 
 -Swiping Left moves EV3 left arm
 
+Machine learning model :
 
+https://arxiv.org/abs/1811.08383
 
 Hardware requirements :
 
