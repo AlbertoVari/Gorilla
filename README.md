@@ -15,7 +15,11 @@ USB Camera
 Software requirements :
 
 pip3 install onnx-simplifier==0.2.18
+
 export PATH=/usr/local/cuda-10.2/bin:$PATH
+
 check USB camera on /dev/video0 : ls -ltrh /dev/video*
+
 pi3 install paramiko http://www.paramiko.org/
+
 install https://www.ev3dev.org/ on EV3 robot
