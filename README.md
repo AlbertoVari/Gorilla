@@ -4,13 +4,20 @@ Jetson Nano machine learning project to control robot with gesture recognition b
 Gorilla project is an application of TSM: Temporal Shift Module https://github.com/mit-han-lab/temporal-shift-module machine learning running on Jetson NANO and remote control of Lego EV3 robot with gesture recognition.
 
 -Swiping Right moves EV3 right arm
+
 -Swiping Left moves EV3 left arm
+
+
 
 Hardware requirements :
 
 NVIDIA Jetson NANO
+
 LEGO EV3 Robot
+
 USB Camera
+
+
 
 Software requirements :
 
